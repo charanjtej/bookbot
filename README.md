@@ -1,2 +1,2 @@
 # bookbot
-Python Library that helps to summarize the total book
+Bookbot is my first git project
